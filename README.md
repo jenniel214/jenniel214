@@ -15,7 +15,7 @@ As a fourth-year Bachelor of Technology student specializing in Computer Science
 </p>
 
 ## 💻 Tech Stack:
- <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,eclipse,googlecolab,replit,pycharm,jupyter,python,c,cpp,java,dart,markdown,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,scipy,seaborn,opencv,html,css,javascript,typescript,bootstrap,jquery,vite,react,tailwindcss,expressjs,mongoose,mongodb,excel,streamlit,postman,npm,flutter,androidstudio,firebase,canva,figma,framer,inkscape,blender,git,github,aws,docker,linux,ubuntu,bash,mysql,sqlite,chatgpt,claude,deepseek,gemini,langchain,pinecone,llamaindex,looker,tableau,pbi&perline=13"/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,googlecolab,replit,pycharm,jupyter,python,c,java,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,opencv,html,css,javascript,react,tailwindcss,expressjs,mongodb,excel,streamlit,npm,flutter,androidstudio,arduino,unity,firebase,canva,figma,blender,git,github,bash,mysql,sqlite,chatgpt,claude,deepseek,gemini,tableau,pbi, &perline=13"/>
 
 
 ## 📊 GitHub Stats:
